@@ -4,6 +4,6 @@ Tutorial: [Chat using socket.io](https://www.youtube.com/watch?v=NU-HfZY3ATQ 'Yo
 
 ### Setup project
 
-`yarn ` to install dependencies
+`yarn` to install dependencies
 
 `yarn dev` to start project
